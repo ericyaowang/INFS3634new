@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Javaist</string>
+    <string name="title_learn">L E A R N</string>
+    <string name="title_app">J A V A I S T</string>
+    <string name="button_learn">LEARN</string>
+    <string name="title_quiz">Q U I Z</string>
+    <string name="detail_learn">Start Learning Your Java Now</string>
+    <string name="detail_test">Start Testing Your Java Now</string>
+    <string name="button_test">TEST</string>
+    <string name="title_activity_lesson_one">LessonOne</string>
+</resources>
